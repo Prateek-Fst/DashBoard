@@ -27,3 +27,8 @@ Example
 # Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+# ScreenShots
+<img width="1440" alt="Screenshot 2024-04-25 at 10 16 58 AM" src="https://github.com/Prateek-Fst/DashBoard/assets/147906999/21a4f805-6724-47c6-8e81-f44049cf2215">
+
+
