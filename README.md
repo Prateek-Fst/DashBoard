@@ -7,7 +7,7 @@ The `DashBoard` component is a React component designed to display a dashboard i
 To use the `DashBoard` component in your React application, you can install it via npm or yarn:
 
 ```bash
-npm install --save <package-name>
+npm install --save frontend
 ```
 # Props
 
