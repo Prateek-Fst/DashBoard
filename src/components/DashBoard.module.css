@@ -1,0 +1,254 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    width:98%;
+    height:106vh;
+    margin: 2vh;
+    background-color: rgb(241 244 245);
+    border-radius: 1vh;
+}
+.img1{
+    height:6vh;
+    width: 4vw;
+    border-radius: 50%;
+    margin-right:2vw ;
+}
+.nav{
+    display: flex;
+    background-color: rgb(32 40 54);
+    border-radius: 1vh;
+    padding: 1vh;
+}
+.btns{
+    margin: auto;
+}
+.inp1{
+    padding: 2vh;
+    width:30vw;
+    border-top-right-radius: 4vh; 
+    border-bottom-right-radius: 4vh; 
+    background-color: white;
+    border: none;
+}
+.add{
+    padding: 2vh;
+    width: 10vw;
+    border-radius: 4vh;
+    margin-left:0.7vw ;
+    background-color: rgb(60 129 66);
+    border: none;
+    color: white;
+    font-size: 2vh;
+}
+select{
+    border-top-left-radius: 4vh;
+    border-bottom-left-radius: 4vh;
+    padding: 2vh;
+}
+.bell{
+    width: 4vw;
+    border-radius: 50%;
+    margin-right:2vw ;
+    background-color: rgb(55 64 80);
+    border: none;
+}
+.dis{
+    display: flex;
+}
+.dash{
+    margin-top:0;
+    width:15vw;
+    margin: 1vh;
+    overflow: auto;
+    background-color: rgb(241 244 245);
+    border-radius: 1vh;
+}
+.data{
+    margin-top: 1vh;
+    width:80vw;
+    margin: 1vh;
+    background-color: rgb(241 244 245);
+    border-radius: 1vh;
+}
+.dbtn{
+    width: 94%;
+    height: 11vh;
+    margin-left:1vh ;
+    margin-right:1vh ;
+    background-color: white;
+    border:1px solid grey;
+    border: none;
+    margin:1px
+}
+.dbtnp{
+    width: 94%;
+    height: 11vh;
+    border-bottom-left-radius: 2vh; /* Radius for top-right corner */
+    border-bottom-right-radius: 2vh; 
+    background-color: white;
+    border:none;
+}
+.dbtnb{
+    border:none;
+    width: 94%;
+    height: 11vh;
+    border-bottom-left-radius: 2vh; /* Radius for top-right corner */
+    border-bottom-right-radius: 2vh; 
+    background-color: white;
+
+}
+.dbtn:hover{
+    background-color: rgb(48 100 57);
+    cursor: pointer;
+    color:white;
+}
+.dbtnb:hover{
+    background-color: rgb(48 100 57);
+    cursor: pointer;
+    color: white;
+}
+.dbtnp:hover{
+    background-color: rgb(48 100 57);
+    cursor: pointer;
+    color: white;
+}
+.bar{
+    margin:1vh;
+    padding: 2vh;
+    background-color: white;
+    border-radius: 1vh;
+    color: green;
+    font-weight: bold;
+}
+.filter{
+    margin:1vh;
+    border-radius: 1vh;
+}
+.select{
+    border-radius: 2vh;
+    padding: 2vh;
+    margin-left:1vw;
+    margin-right:1vw;
+}
+.c{
+    border-left: 3px solid yellow;
+    width:18vw;
+    padding: 1vh;
+    margin: 1vh;
+    background-color: white;
+    border-radius: 1vh;
+}
+.ca{
+    border-left: 3px solid blue;
+    width:18vw;
+    padding: 1vh;
+    margin: 1vh;
+    background-color: white;
+    border-radius: 1vh;
+}
+.l{
+    border-left: 3px solid green;
+    width:18vw;
+    padding: 1vh;
+    margin: 1vh;
+    background-color: white;
+    border-radius: 1vh;
+}
+.d{
+    border-left: 3px solid violet;
+    width:18vw;
+    padding: 1vh;
+    margin: 1vh;
+    background-color: white;
+    border-radius: 1vh;
+}
+.flex{
+    display: flex;
+}
+.ele{
+    display: flex;
+    justify-content: space-between;
+}
+i{
+    font-size: 4vh;
+    margin: 1vh;
+    color: rgb(103, 104, 109);
+}
+d{
+    font-size:3vh;
+}
+table{
+    border: 1px solid rgb(105, 101, 101);
+    width:99%;
+    margin: 1vh;
+    border-collapse: collapse;
+    background-color: white;
+}
+tr,td,th{
+    border: 1px solid rgb(181, 170, 170);
+    height:9vh;
+    text-align: center;
+   
+}
+td{
+    width: 25%;
+}
+.bold{
+    font-weight: bold;
+}
+.inp2{
+    margin-right:1vw;
+    margin-left:1vw;
+}
+h3{
+    padding: 2vh;
+}
+.cons{
+    display: flex;
+    justify-content:space-between;
+    margin: 1vh;
+    background-color: white;
+    border-radius: 1vh;
+}
+body{
+    background-color: black;
+}
+.filter{
+    background-color: white;
+}
+.name{
+    color: rgb(48 100 57);
+    font-weight: bold;
+}
+.fbtn{
+    height:6vh;
+    background-color: rgb(48 100 57);
+    border: none;
+    color: white;
+    border-radius: 1vh;
+    padding: 2vh;
+
+}
+.fonts{
+    border-radius: 50%;
+    background-color: rgb(241 230 250);
+}
+.f1{
+    border-radius: 50%;
+    background-color: rgb(228 250 230);
+
+}
+.f2{
+    border-radius: 50%;
+    background-color: rgb(224 231 250);
+}
+.f3{
+    border-radius: 50%;
+    background-color: rgb(238 226 201);
+}
+.table{
+    background-color: white;
+    border-radius: 1vh;
+}
